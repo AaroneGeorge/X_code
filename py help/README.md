@@ -1,5 +1,3 @@
-Here's how to update your README.md file:
-
 ```markdown:README.md
 # Twitter Bot
 
